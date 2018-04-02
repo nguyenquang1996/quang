@@ -1,0 +1,9 @@
+C:\Users\Quang\Desktop\DemoSQL\DALayer\bin\Debug\DALayer.exe.config
+C:\Users\Quang\Desktop\DemoSQL\DALayer\bin\Debug\DALayer.exe
+C:\Users\Quang\Desktop\DemoSQL\DALayer\bin\Debug\DALayer.pdb
+C:\Users\Quang\Desktop\DemoSQL\DALayer\obj\Debug\DALayer.csprojResolveAssemblyReference.cache
+C:\Users\Quang\Desktop\DemoSQL\DALayer\obj\Debug\DALayer.Properties.Resources.resources
+C:\Users\Quang\Desktop\DemoSQL\DALayer\obj\Debug\DALayer.csproj.GenerateResource.Cache
+C:\Users\Quang\Desktop\DemoSQL\DALayer\obj\Debug\DALayer.csproj.CoreCompileInputs.cache
+C:\Users\Quang\Desktop\DemoSQL\DALayer\obj\Debug\DALayer.exe
+C:\Users\Quang\Desktop\DemoSQL\DALayer\obj\Debug\DALayer.pdb

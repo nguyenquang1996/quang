@@ -1,0 +1,13 @@
+C:\Users\Quang\Desktop\DemoSQL\DemoSQL\bin\Debug\DemoSQL.exe.config
+C:\Users\Quang\Desktop\DemoSQL\DemoSQL\bin\Debug\DemoSQL.exe
+C:\Users\Quang\Desktop\DemoSQL\DemoSQL\bin\Debug\DemoSQL.pdb
+C:\Users\Quang\Desktop\DemoSQL\DemoSQL\bin\Debug\DALayer.exe
+C:\Users\Quang\Desktop\DemoSQL\DemoSQL\bin\Debug\DALayer.pdb
+C:\Users\Quang\Desktop\DemoSQL\DemoSQL\bin\Debug\DALayer.exe.config
+C:\Users\Quang\Desktop\DemoSQL\DemoSQL\obj\Debug\DemoSQL.csprojResolveAssemblyReference.cache
+C:\Users\Quang\Desktop\DemoSQL\DemoSQL\obj\Debug\DemoSQL.Form1.resources
+C:\Users\Quang\Desktop\DemoSQL\DemoSQL\obj\Debug\DemoSQL.Properties.Resources.resources
+C:\Users\Quang\Desktop\DemoSQL\DemoSQL\obj\Debug\DemoSQL.csproj.GenerateResource.Cache
+C:\Users\Quang\Desktop\DemoSQL\DemoSQL\obj\Debug\DemoSQL.csproj.CoreCompileInputs.cache
+C:\Users\Quang\Desktop\DemoSQL\DemoSQL\obj\Debug\DemoSQL.exe
+C:\Users\Quang\Desktop\DemoSQL\DemoSQL\obj\Debug\DemoSQL.pdb
